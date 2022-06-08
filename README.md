@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Ricky
-- 👀 I’m interested in web developing especially in front end development
-- 🌱 I’m currently learning Javascript, React Js, Vue Js, Laravel, and etc
-- 💞️ I’m looking to collaborate on internship program right now
+<!-- - 👀 I’m interested in web developing especially in front end development -->
+- 🌱 I’m currently learning Javascript, React Js, Laravel, and etc
+<!-- - 💞️ I’m looking to collaborate on internship program right now -->
 - 📫 you can reach and know more about me at linkedin.com/in/ricky-t-a7525422a
 
 <!---
